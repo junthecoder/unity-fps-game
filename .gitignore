@@ -1,0 +1,30 @@
+# macOS metadata
+.DS_Store
+
+# Unity-generated local data
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+
+# IDE-generated files
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+
+# Blender backup revisions; keep primary .blend assets and their metadata
+*.blend[0-9]*
+*.blend[0-9]*.meta
+
+# Asset .meta files are intentionally tracked.
