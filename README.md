@@ -4,6 +4,10 @@ A Unity 4.x FPS project developed in 2013–2014 and revisited in 2023. This rep
 
 **Status: historical source and artwork showcase. This extraction is not currently a self-contained, runnable Unity project.** Some dependencies and imported assets have intentionally been excluded for licensing reasons. It has not been verified in a modern Unity editor.
 
+## Gameplay video
+
+https://github.com/user-attachments/assets/68240ccc-aebb-4fd1-acd9-02f4a35c58eb
+
 ## Start reading here
 
 | System | Files | What to examine |
